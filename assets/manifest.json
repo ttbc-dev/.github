@@ -1,0 +1,26 @@
+{
+  "assets": [
+    {
+      "file": "hero.png",
+      "role": "Organization profile hero",
+      "width": 1536,
+      "height": 512,
+      "sha256": "8e90db753f840c717eb916d707a25a1ae7bac5e71128fc37c2b1722ae47010ce",
+      "source_encoding": "WebP",
+      "source_sha256": "39fafe3673a7efc2c9246122261a089d4573758056d2406662111cccaf68fdf0",
+      "conversion": "PNG encoding only; decoded RGB pixels and embedded ICC profile preserved.",
+      "generation_prompt": "Original complete prompt unavailable; not reconstructed."
+    },
+    {
+      "file": "avatar.png",
+      "role": "Organization avatar",
+      "width": 1536,
+      "height": 1536,
+      "sha256": "5cc9b695dfd6eadd9c3d89f10409c0d0b490616bef6dd6cc9dda537e41134a7e",
+      "source_encoding": "WebP",
+      "source_sha256": "eb02497f56a7a8461eacd94b9f3d88ebe28e86bea65aec256b151fc86f3fe09d",
+      "conversion": "PNG encoding only; decoded RGB pixels and embedded ICC profile preserved.",
+      "generation_prompt": "Original complete prompt unavailable; not reconstructed."
+    }
+  ]
+}
