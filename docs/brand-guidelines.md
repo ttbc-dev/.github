@@ -22,7 +22,9 @@ Aim for peculiar, absent-minded inhabitants with distinct silhouettes and recogn
 
 Playfulness comes from small, slightly inept constructions: a crooked three-legged stool, a branch swing, a raft, or a wooden device with an unclear purpose. Keep them incidental to the landscape. Avoid weapons, basketball imagery, and conspicuous technology symbols.
 
-The emblem pairs a formal circular club badge with an ordinary, slightly uncomfortable stool. Preserve the uneven seat, crooked legs, surrounding lettering, moss-gray field, aged paper, and restrained composition. The stool should look painted into the same world as the landscape, not like a woodworking product photograph.
+The emblem pairs a circular club composition with an ordinary, slightly uncomfortable stool. Preserve the uneven seat, crooked legs, delicate broken ink circle, aged paper, misty mountain wash, and restrained composition. The center blends into the surrounding paper rather than using a solid background field. The stool should look painted into the same world as the landscape, not like a woodworking product photograph.
+
+Use understated, narrow, hand-painted uppercase Roman lettering: `TOKYO TINY` on the upper arc and `BUILDERS CLUB` on the lower arc. Preserve subtle irregularities in spacing, alignment, and stroke width. Avoid heavy Western serif, collegiate, heraldic, or vintage badge lettering.
 
 ## Extending the landscape
 
