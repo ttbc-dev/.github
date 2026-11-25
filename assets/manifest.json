@@ -16,11 +16,13 @@
       "role": "Organization avatar",
       "width": 1536,
       "height": 1536,
-      "sha256": "5cc9b695dfd6eadd9c3d89f10409c0d0b490616bef6dd6cc9dda537e41134a7e",
+      "sha256": "b7d9adc027a65456e6d088166b9f0d3dc38e81765908cd6a5937f79e0e5ec59f",
       "source_encoding": "WebP",
-      "source_sha256": "eb02497f56a7a8461eacd94b9f3d88ebe28e86bea65aec256b151fc86f3fe09d",
+      "source_sha256": "d68ad4057076d130043f033cc482680ea3d77469ad342e2777afccbad6d23d8b",
       "conversion": "PNG encoding only; decoded RGB pixels and embedded ICC profile preserved.",
-      "generation_prompt": "Original complete prompt unavailable; not reconstructed."
+      "generation_prompt": "Original complete prompt unavailable; not reconstructed.",
+      "supersedes_sha256": "5cc9b695dfd6eadd9c3d89f10409c0d0b490616bef6dd6cc9dda537e41134a7e",
+      "revision_note": "Approved replacement: delicate broken ink circle, brush lettering, and a mountain wash in place of the solid central field. Previous image retained in Git history."
     }
   ]
 }
