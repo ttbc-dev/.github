@@ -16,13 +16,13 @@
       "role": "Organization avatar",
       "width": 1536,
       "height": 1536,
-      "sha256": "b7d9adc027a65456e6d088166b9f0d3dc38e81765908cd6a5937f79e0e5ec59f",
+      "sha256": "2216091a3a7d3cb14133eea26fafc9b6d38ce53078ce00be61e5f4323021f48b",
       "source_encoding": "WebP",
-      "source_sha256": "d68ad4057076d130043f033cc482680ea3d77469ad342e2777afccbad6d23d8b",
+      "source_sha256": "4c060241540f3d3452f56c6599d433b7610c3c436a70ca4540aaefa134c69351",
       "conversion": "PNG encoding only; decoded RGB pixels and embedded ICC profile preserved.",
       "generation_prompt": "Original complete prompt unavailable; not reconstructed.",
-      "supersedes_sha256": "5cc9b695dfd6eadd9c3d89f10409c0d0b490616bef6dd6cc9dda537e41134a7e",
-      "revision_note": "Approved replacement: delicate broken ink circle, brush lettering, and a mountain wash in place of the solid central field. Previous image retained in Git history."
+      "supersedes_sha256": "b7d9adc027a65456e6d088166b9f0d3dc38e81765908cd6a5937f79e0e5ec59f",
+      "revision_note": "Approved refinement: warm golden-brown aged paper, stronger lettering and stool contrast, and soft broken stool contours. Previous image retained in Git history."
     }
   ]
 }
